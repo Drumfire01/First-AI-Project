@@ -1,0 +1,401 @@
+﻿Transaction Description,Category
+night out,entertainment
+spotify,entertainment
+movies,entertainment
+concerts,entertainment
+events,entertainment
+crunchyroll,entertainment
+amazon prime,entertainment
+aws,entertainment
+chatgpt,entertainment
+Streaming Subscription,Entertainment
+Concert Ticket,Entertainment
+Movie Theater Ticket,Entertainment
+Theme Park Entry Fee,Entertainment
+Bookstore Purchase,Entertainment
+Video Game Purchase,Entertainment
+Sports Event Ticket,Entertainment
+Movie Ticket Purchase,Entertainment
+Monthly Netflix Subscription,Entertainment
+groceries,food
+dining out,food
+Grocery Store,Food
+Coffee Shop,Food
+Restaurant,Food
+Weekly Grocery Shopping,Food
+Fast Food Lunch,Food
+Meal Delivery Service,Food
+Bakery Purchase,Food
+Farmer’s Market Purchase,Food
+Grocery Store Weekly Shopping,Food
+Coffee Shop Purchase,Food
+Grocery Store Purchase,Food
+Coffee Shop Order,Food
+Fast Food Meal,Food
+Restaurant Dining,Food
+Bakery Purchase,Food
+Farmer's Market Visit,Food
+Meal Kit Subscription,Food
+Convenience Store Snacks,Food
+Supermarket Essentials,Food
+Pizza Delivery,Food
+Rent,housing
+phone,housing
+electricity,housing
+gas,housing
+water,housing
+sewer,housing
+cable,housing
+waste removal,housing
+maintenance,housing
+supplies,housing
+Monthly Rent Payment,Housing
+Homeowners Association Fee,Housing
+home,insurance
+health,insurance
+life,insurance
+renters,insurance
+car insurance,insurance
+Home Insurance Payment,Insurance
+Car Insurance Payment,Insurance
+Health Insurance Premium,Insurance
+Pet Insurance Payment,Insurance
+Travel Insurance Policy,Insurance
+Life Insurance Payment,Insurance
+Disability Insurance Premium,Insurance
+Life Insurance Premium Payment,Insurance
+Car Insurance Renewal Fee,Insurance
+Car Insurance Premium,Insurance
+Health Insurance Deduction,Insurance
+Home Insurance Payment,Insurance
+Travel Insurance Fee,Insurance
+Dental Insurance Plan,Insurance
+Life Insurance Premium,Insurance
+Pet Insurance Policy,Insurance
+investment,investments
+retirement,investments
+Online Stock Purchase,Investments
+Mutual Fund Contribution,Investments
+Cryptocurrency Investment,Investments
+Real Estate Investment,Investments
+Retirement Account Deposit,Investments
+Bond Purchase,Investments
+Stocks App Transaction Fee,Investments
+Purchase of Mutual Fund Shares,Investments
+Monthly Contribution to 401(k),Investments
+Purchase of Mutual Funds,Investments
+Monthly Stock Investment,Investments
+Real Estate Investment,Investments
+Retirement Account Contribution,Investments
+Cryptocurrency Purchase,Investments
+Bonds Purchase,Investments
+Stock Trading App Fee,Investments
+Financial Advisory Fee,Investments
+Automated Investing Fee,Investments
+Robo-Advisory Plan Contribution,Investments
+medical ,personal
+doctors,personal
+dentist,personal
+dermatology,personal
+haircut,personal
+Gym Membership,Personal
+Spa Treatment,Personal
+Personal Care Products,Personal
+Hair Salon Appointment,Personal
+Fitness Class Enrollment,Personal
+Hobby Supplies Purchase,Personal
+Charity Donation,Personal
+Gym Membership Renewal,Personal
+Yoga Class Fee,Personal
+Spa Treatment,Personal
+Haircut at Salon,Personal
+Manicure/Pedicure,Personal
+Subscription to a Self-Help App,Personal
+Donation to Charity,Personal
+Purchase of Vitamins and Supplements,Personal
+Therapy Session Fee,Personal
+Life Coach Consultation,Personal
+Hobby Supplies Purchase,Personal
+Art Class Fee,Personal
+Language Course Subscription,Personal
+Fitness Equipment Purchase,Personal
+Subscription to a Meditation App,Personal
+Gift for Family Member,Personal
+Clothing Alterations Fee,Personal
+Ticket to a Workshop or Seminar,Personal
+counsuling,personal
+gym membership,personal
+skincare,personal
+dating app ,personal
+Gym Membership Monthly Fee,Personal
+Donation to Animal Shelter,Personal
+amazon,shopping
+microcenter,shopping
+ubiquity,shopping
+target,shopping
+kohls,shopping
+Mall Shopping,Shopping
+Online Clothing Purchase,Shopping
+Electronics Store Purchase,Shopping
+Furniture Store Purchase,Shopping
+Beauty Store Purchase,Shopping
+Home Decor Purchase,Shopping
+Black Friday Electronics Deal,Shopping
+Online Purchase from Amazon,Shopping
+Clothing Store Purchase,Shopping
+Electronics Purchase from Best Buy,Shopping
+Furniture Purchase from IKEA,Shopping
+Monthly Subscription Box Payment,Shopping
+Shoe Store Purchase,Shopping
+Jewelry Purchase,Shopping
+Home Decor Purchase,Shopping
+Toy Store Purchase,Shopping
+Black Friday Electronics Deal,Shopping
+Grocery Store Purchase,Shopping
+Office Supplies Purchase,Shopping
+Outdoor Gear Purchase,Shopping
+Online Discount Store Purchase,Shopping
+Shopping Mall Purchase,Shopping
+Seasonal Sale Purchase,Shopping
+Back-to-School Supplies,Shopping
+Gift Purchase for a Friend,Shopping
+Art Supplies Purchase,Shopping
+Pet Store Purchase,Shopping
+Electronics Purchase from Best Buy,Shopping
+Black Friday Sale Purchase,Shopping
+Online Shopping (Amazon),Shopping
+Black Friday Electronics Deal,Shopping
+Mall Purchase,Shopping
+Clothing Store Visit,Shopping
+Jewelry Store Purchase,Shopping
+Furniture Store Shopping,Shopping
+Back-to-School Supplies,Shopping
+car payment,transportation
+bus,transportation
+metro,transportation
+taxi,transportation
+uber,transportation
+insurance,transportation
+gas,transportation
+fuel,transportation
+gas station,transportation
+maintenance,transportation
+garage,transportation
+parking,transportation
+Train Ticket,Transportation
+Ride-Sharing Service,Transportation
+Airline Ticket,Transportation
+Monthly Bus Pass,Transportation
+Taxi Ride,Transportation
+Fuel Station Purchase,Transportation
+Vehicle Maintenance,Transportation
+Ride-Sharing Service,Transportation
+Monthly Public Transit Pass,Transportation
+Grocery Store Weekly Shopping,Food
+Coffee Shop Latte,Food
+Fast Food Combo Meal,Food
+Restaurant Dinner,Food
+Bakery Croissants Purchase,Food
+Farmer's Market Produce,Food
+Meal Kit Subscription,Food
+Supermarket Essentials,Food
+Pizza Delivery,Food
+Convenience Store Snacks,Food
+Organic Food Store Visit,Food
+Breakfast Cafe Bill,Food
+Health Food Store Purchase,Food
+Ice Cream Truck Purchase,Food
+Sushi Restaurant Order,Food
+Food Truck Meal,Food
+BBQ Restaurant Bill,Food
+Monthly Grocery Subscription,Food
+Holiday Dinner Groceries,Food
+Gourmet Cheese Purchase,Food
+Smoothie Bar Order,Food
+Catered Lunch Event,Food
+Food Delivery App Order,Food
+Seafood Market Purchase,Food
+Sandwich Shop Purchase,Food
+Frozen Meal Groceries,Food
+Vegan Cafe Visit,Food
+International Grocery Store Visit,Food
+Movie Theater Tickets,Entertainment
+Monthly Netflix Subscription,Entertainment
+Concert Ticket Purchase,Entertainment
+Streaming Service Fee,Entertainment
+Amusement Park Entry,Entertainment
+Museum Admission,Entertainment
+Bowling Alley Visit,Entertainment
+Karaoke Bar Session,Entertainment
+Subscription to Spotify,Entertainment
+Sports Event Tickets,Entertainment
+Video Game Purchase,Entertainment
+E-Book Purchase,Entertainment
+Subscription to an Audiobook App,Entertainment
+Online Gaming Subscription,Entertainment
+Escape Room Experience,Entertainment
+Stand-Up Comedy Show Ticket,Entertainment
+Monthly HBO Subscription,Entertainment
+Local Festival Admission,Entertainment
+VR Game Purchase,Entertainment
+Board Game Purchase,Entertainment
+Outdoor Movie Screening,Entertainment
+Fairground Rides Pass,Entertainment
+Trivia Night at Pub,Entertainment
+Live Theater Show Ticket,Entertainment
+Theme Park Annual Pass,Entertainment
+Art Gallery Entry Fee,Entertainment
+Circus Show Tickets,Entertainment
+Dance Class Registration,Entertainment
+Arcade Tokens Purchase,Entertainment
+Magician Show Tickets,Entertainment
+Movie Rental Online,Entertainment
+Subscription to YouTube Premium,Entertainment
+Monthly Rent Payment,Housing
+Mortgage Payment,Housing
+Electricity Bill,Housing
+Water Bill,Housing
+Internet Service Fee,Housing
+Gas Utility Payment,Housing
+Homeowner's Association (HOA) Fee,Housing
+Trash Collection Service Fee,Housing
+Home Security System Subscription,Housing
+Lawn Care Service,Housing
+Pest Control Service,Housing
+Home Maintenance Fee,Housing
+Plumber Visit Fee,Housing
+HVAC System Repair,Housing
+Roof Inspection Fee,Housing
+Window Cleaning Service,Housing
+Snow Removal Service,Housing
+Chimney Cleaning Service,Housing
+Gutter Cleaning Service,Housing
+Landscaping Service,Housing
+Property Taxes Payment,Housing
+Firewood Delivery,Housing
+Water Softener Refill,Housing
+Appliance Repair Service,Housing
+Locksmith Service Fee,Housing
+New Door Installation,Housing
+Light Bulb Replacement,Housing
+Carpet Cleaning Service,Housing
+Window Replacement Fee,Housing
+Pest Inspection Fee,Housing
+Home Insurance Payment,Housing
+Septic Tank Cleaning Service,Housing
+Garage Door Repair Fee,Housing
+Painting Service,Housing
+Home Appliance Purchase,Housing
+Home Renovation Expense,Housing
+Smart Thermostat Purchase,Housing
+Doorbell Camera Purchase,Housing
+Monthly Health Insurance Premium,Insurance
+Annual Car Insurance Renewal Fee,Insurance
+Homeowner’s Insurance Payment,Insurance
+Life Insurance Premium,Insurance
+Travel Insurance Policy Fee,Insurance
+Dental Insurance Deduction,Insurance
+Vision Insurance Contribution,Insurance
+Pet Insurance Premium,Insurance
+Disability Insurance Payment,Insurance
+Term Life Insurance Payment,Insurance
+Renter’s Insurance Premium,Insurance
+Flood Insurance Coverage Fee,Insurance
+Earthquake Insurance Policy Payment,Insurance
+Motorcycle Insurance Premium,Insurance
+Liability Insurance Coverage,Insurance
+Umbrella Insurance Premium,Insurance
+Monthly Health Savings Account Deposit,Insurance
+Long-Term Care Insurance Payment,Insurance
+Supplemental Health Insurance Fee,Insurance
+Critical Illness Insurance Premium,Insurance
+Income Protection Insurance Payment,Insurance
+Business Insurance Policy,Insurance
+Cybersecurity Insurance Premium,Insurance
+Boat Insurance Payment,Insurance
+Farm Insurance Premium,Insurance
+Wedding Insurance Policy Fee,Insurance
+Event Insurance Coverage Fee,Insurance
+Aviation Insurance Payment,Insurance
+Professional Liability Insurance Fee,Insurance
+Monthly Stock Purchase,Investments
+Cryptocurrency Investment,Investments
+Mutual Fund Contribution,Investments
+Real Estate Investment,Investments
+Bond Purchase,Investments
+ETF Purchase,Investments
+Retirement Account Deposit,Investments
+Roth IRA Contribution,Investments
+Stock Trading Platform Fee,Investments
+Dividend Reinvestment,Investments
+Robo-Advisory Account Setup Fee,Investments
+Financial Advisor Consultation,Investments
+Hedge Fund Investment,Investments
+Brokerage Account Maintenance Fee,Investments
+Initial Public Offering (IPO) Shares,Investments
+Automated Investing App Subscription,Investments
+Crowdfunding Platform Contribution,Investments
+Precious Metals Investment,Investments
+Stock Market Data Subscription,Investments
+ESG Fund Purchase,Investments
+Investment Trust Contribution,Investments
+Alternative Assets Investment,Investments
+Venture Capital Investment,Investments
+Convertible Bonds Purchase,Investments
+Annuity Purchase,Investments
+Municipal Bonds Investment,Investments
+Corporate Bonds Purchase,Investments
+Private Equity Investment,Investments
+Index Fund Contribution,Investments
+Gym Membership Fee,Personal
+Charity Donation,Personal
+Spa Treatment,Personal
+Salon Visit,Personal
+Yoga Class Subscription,Personal
+Music Lesson Fee,Personal
+Fitness Equipment Purchase,Personal
+Meditation App Subscription,Personal
+Therapy Session Payment,Personal
+Life Coach Fee,Personal
+Weight Loss Program Enrollment,Personal
+Pet Grooming Service Fee,Personal
+Subscription to Self-Help Books,Personal
+Personal Budgeting App Fee,Personal
+Online Shopping Cart Checkout,Shopping
+Holiday Gift Shopping,Shopping
+Flash Sale Purchase,Shopping
+Shopping Mall Visit,Shopping
+Luxury Handbag Purchase,Shopping
+Outdoor Gear Shopping,Shopping
+Local Market Goods Purchase,Shopping
+Seasonal Sale Shopping,Shopping
+Online Electronics Deal,Shopping
+Monthly Public Transit Pass,Transportation
+Rideshare App Fare,Transportation
+Fuel Station Purchase,Transportation
+Taxi Ride Payment,Transportation
+Annual Train Pass Fee,Transportation
+Car Maintenance Service Fee,Transportation
+Tire Replacement Fee,Transportation
+Monthly Parking Garage Subscription,Transportation
+Bicycle Repair Service,Transportation
+Airline Ticket,Transportation
+Airport Shuttle Fee,Transportation
+Road Toll Payment,Transportation
+Car Wash Service,Transportation
+Vehicle Registration Fee,Transportation
+Motorcycle Maintenance Payment,Transportation
+Boat Docking Fee,Transportation
+Roadside Assistance Membership,Transportation
+Electric Vehicle Charging Fee,Transportation
+Bus Ticket,Transportation
+Long-Distance Train Ticket,Transportation
+Ferry Ride Payment,Transportation
+Scooter Rental Fee,Transportation
+Highway Express Lane Toll,Transportation
+Driver’s License Renewal Fee,Transportation
+Rental Car Payment,Transportation
+Vehicle Emission Testing Fee,Transportation
+Uber or Lyft Pool Ride Fee,Transportation
+Airport Lounge Access,Transportation
+Weekend Road Trip Gas Expense,Transportation
